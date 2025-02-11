@@ -2,10 +2,9 @@
 # AUTHOR: Raivon
 payload:
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,openai.com.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,4pda.to
   - DOMAIN-SUFFIX,4pda.ru
   - DOMAIN-SUFFIX,4pda.ws
   - DOMAIN-SUFFIX,ifconfig.io
   - IP-CIDR,31.131.253.250/32 # IP адрес приложения 4DPA
-  
