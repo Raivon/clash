@@ -1,0 +1,4 @@
+# NAME: MyRejectList
+# AUTHOR: Raivon
+payload:
+  - DOMAIN-SUFFIX,mds.yandex.net
