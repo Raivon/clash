@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,dnsdoh.art
   - DOMAIN-SUFFIX,storage.mds.yandex.net
+  - DOMAIN-SUFFIX,avatars.mds.yandex.net
