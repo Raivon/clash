@@ -9,3 +9,11 @@ payload:
   - DOMAIN-SUFFIX,4pda.to
   - DOMAIN-SUFFIX,4pda.ru
   - DOMAIN-SUFFIX,4pda.ws
+  # Amazon eWeLink
+  - IP-CIDR,18.128.0.0/9,no-resolve
+  - IP-CIDR,18.32.0.0/11,no-resolve
+  - IP-CIDR,18.64.0.0/10,no-resolve
+  - IP-CIDR,35.152.0.0/13,no-resolve
+  - IP-CIDR,35.160.0.0/12,no-resolve
+  - IP-CIDR,35.176.0.0/13,no-resolve
+  
