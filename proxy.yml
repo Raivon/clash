@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,coolkit.cc
   - DOMAIN-SUFFIX,4pda.to
   - DOMAIN-SUFFIX,4pda.ru
   - DOMAIN-SUFFIX,4pda.ws
