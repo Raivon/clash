@@ -11,4 +11,4 @@ payload:
   - DOMAIN-SUFFIX,avatars.mds.yandex.net
   - DOMAIN-SUFFIX,ngenix.net
   - DOMAIN-SUFFIX,wink.ru
-  
+  - DOMAIN-SUFFIX,s3-private.mds.yandex.net
